@@ -1,7 +1,8 @@
 # Awesome Notes
+
 >Personal Learning Notes - iFDING
 
-### [1.Data structures](./data-structures/README.md)
+### [1. Data structures](./data-structures/README.md)
 
 * Array
 * Linked List
@@ -13,7 +14,7 @@
 * Tree
 * Bit Manipulation
 
-### [2.Algorithm](./algorithm/README.md)
+### [2. Algorithm](./algorithm/README.md)
 
 * Search
 * Sort
@@ -25,13 +26,15 @@
 * Greedy
 * Design
 
-### [3.Systems](./systems/README.md)
+### [3. Systems](./systems/README.md)
 
 * Linux
 * Embedded
 * Monitor
 
-### [4.Language](./language/README.md)
+### [4. Docker](./docker/README.md)
+
+### [5. Language](./language/README.md)
 
 * Assembly
 * C
@@ -39,4 +42,4 @@
 * Java
 * Python
 
-### [5.Courses](computer-science-courses.md)
+### [6. Courses](computer-science-courses.md)
