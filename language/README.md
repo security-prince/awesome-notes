@@ -1,26 +1,34 @@
 Language Notes
 ==========
 
-### C
+### Overview
 
-- [awesome C frameworks, libraries and software](https://github.com/uhub/awesome-c)
+- c
 
-### CPP
+- cpp
 
-- [awesome C++ frameworks, libraries and software](https://github.com/uhub/awesome-cpp)
+- [java](./java/README.md)
 
-### [Java](./java/README.md)
+- [python](./python/README.md)
 
-- [awesome Java frameworks, libraries and software](https://github.com/uhub/awesome-java)
+- scala
 
-### [Python](./python/README.md)
+- [ocaml](./ocmal/README.md)
 
-- [awesome Python frameworks, libraries and software](https://github.com/uhub/awesome-python)
+- haskell
 
-### Scala
+- erlang
 
-- [awesome Scala frameworks, libraries and software](https://github.com/uhub/awesome-scala)
+- clojure
 
-### Go
 
-- [awesome Go frameworks, libraries and software](https://github.com/uhub/awesome-go)
+### Awesome resources
+
+- [C](https://github.com/uhub/awesome-c)
+- [Python](https://github.com/uhub/awesome-python)
+- [Java](https://github.com/uhub/awesome-java)
+- [C++](https://github.com/uhub/awesome-cpp)
+- [Go](https://github.com/uhub/awesome-go)
+- [Scala](https://github.com/uhub/awesome-scala)
+- [Haskell](https://github.com/uhub/awesome-haskell)
+- [Erlang](https://github.com/uhub/awesome-erlang)
