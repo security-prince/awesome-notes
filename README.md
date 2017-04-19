@@ -2,7 +2,7 @@
 
 >Personal Learning Notes - iFDING
 
-### [1. Data structures](./data-structures/README.md)
+### [1. Data structure](./data-structure/README.md)
 
 * Array
 * Linked List
@@ -26,7 +26,7 @@
 * Greedy
 * Design
 
-### [3. Systems](./systems/README.md)
+### [3. System](./system/README.md)
 
 * Linux
 * Embedded
@@ -42,4 +42,8 @@
 * Java
 * Python
 
-### [6. Courses](computer-science-courses.md)
+### [6. Compiler](./compiler/README.md)
+
+### 7. Courses
+
+* [Computer Science Courses](computer-science-courses.md)
