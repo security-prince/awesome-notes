@@ -1,0 +1,14 @@
+
+$ openstack endpoint list --interface public
+
+$ openstack endpoint set --url <modified> <endpoint_id>
+
+(where <modified> is the URL with the host part substituted with the
+FQDN; and <endpoint_id> is the endpoint you are changing the URL for.
+
+Once you've done that for all the public endpoints, you can restart all
+the services:
+
+$ service apache2 restart (this restarts keystone)
+$ service nova-api restart
+$ service neutron-server restart
