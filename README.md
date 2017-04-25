@@ -113,8 +113,9 @@
 
 ## [Linux](./linux/README.md)
 * [Linux System Administration](http://www.linuxtraining.co.uk/download/new_linux_course_modules.pdf)
-* Embedded
-* Monitor
+* [motherboard-chipsets-memory-map](linux/motherboard-chipsets-memory-map.md)
+* [how-computers-boot-up](linux/how-computers-boot-up.md)
+* [kernel-boot-process](linux/kernel-boot-process.md)
 
 <br>
 <br>
@@ -124,6 +125,7 @@
 
 ## [Docker](./docker/README.md)
 * [docker-cheat-sheet](./docker/docker-cheat-sheet.md)
+* [monitoring-container-collectd-kafka](./docker/monitoring-container-collectd-kafka.md)
 <br>
 <br>
 <br>
