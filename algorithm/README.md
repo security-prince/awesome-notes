@@ -1,6 +1,12 @@
 
 # Algorithm Notes
 
+<br>
+<br>
+<br>
+<hr>
+<br>
+
 ### 1. Basics
 
 * [Algorithm Analysis](algorithm_analysis.md)

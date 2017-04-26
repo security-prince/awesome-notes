@@ -1,4 +1,4 @@
-![Awesome Hacking](../images/awesome_hacking.jpg)
+![Awesome Hacking](./images/awesome_hacking.jpg)
 
 # [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 

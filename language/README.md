@@ -3,24 +3,21 @@ Language Notes
 
 ### Overview
 
+- assembly
 - c
-
 - cpp
-
 - [java](./java/README.md)
-
 - [python](./python/README.md)
-
 - scala
-
-- [ocaml](./ocmal/README.md)
-
+- [ocaml](./ocmal/README.txt)
 - haskell
-
 - erlang
-
 - clojure
 
+### Functional
+
+* [why_functional_programming](why_functional_programming.md)
+* [OCaml-learning-notes](./ocaml/OCaml-learning-notes.md)
 
 ### Awesome resources
 
