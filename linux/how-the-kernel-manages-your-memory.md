@@ -41,7 +41,7 @@ In Linux each page frame is tracked by a descriptor and several flags. Together 
 
 Let's put together virtual memory areas, page table entries and page frames to understand how this all works. Below is an example of a user heap:
 
-![](http://static.duartes.org/img/blogPosts/heapMapped.pngs)
+![](http://static.duartes.org/img/blogPosts/heapMapped.png)
 
 Blue rectangles represent pages in the VMA range, while arrows represent page table entries mapping pages onto page frames. Some virtual pages lack arrows; this means their corresponding PTEs have the **Present** flag clear. This could be because the pages have never been touched or because their contents have been swapped out. In either case access to these pages will lead to page faults, even though they are within the VMA. It may seem strange for the VMA and the page tables to disagree, yet this often happens.
 
