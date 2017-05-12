@@ -3,6 +3,7 @@
 
 * [security](security.md)
 * [Awesome-Hacking](awesome-hacking.md)
+* [awesome malware analysis](awesome-malware-analysis.md)
 
 <br>
 <br>
@@ -10,8 +11,8 @@
 <hr>
 <br>
 
-### Collection of Security 
- 
+### Collection of Security
+
 * [A curated list of awesome infosec courses and training resources](https://github.com/onlurking/awesome-infosec)
 * [Offensive Security 2013 - FSU](http://www.cs.fsu.edu/~redwood/OffensiveSecurity/lectures.html)
 * [CTF write-ups from the VulnHub CTF Team](https://github.com/VulnHub/ctf-writeups)
@@ -19,7 +20,7 @@
 * [Practice CTF List](http://captf.com/practice-ctf/)
 * [A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP](https://github.com/denisbr/awesome-sysadmin)
 * [Information Security related Mind Maps](http://www.amanhardikar.com/mindmaps.html)
-* [A curated list of resources for learning about application security](https://github.com/paragonie/awesome-appsec) 
+* [A curated list of resources for learning about application security](https://github.com/paragonie/awesome-appsec)
 * [Computer Systems Security](http://css.csail.mit.edu/6.858/2014/reference.html)
 * [HackerOne is the first vulnerability coordination and bug bounty platform](https://www.hackerone.com/)
 * [Security Research & Penetration Testing Blog](https://highon.coffee/blog/)
@@ -51,3 +52,8 @@
 * [The Bug Hunters Methodology](https://github.com/jhaddix/tbhm)
 * [Malicious HTTP traffic explorer](https://github.com/omriher/CapTipper)
 * [INSANE Web Security Testing MindMap](http://apps.testinsane.com/mindmaps/insane-web-security-testing-mindmap)
+
+### Others
+
+* [crunch - wordlist generator](https://sourceforge.net/projects/crunch-wordlist/)
+* [hashcat,the fastest password cracker,the first and only in-kernel rule engine](https://hashcat.net/hashcat/)

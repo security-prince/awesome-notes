@@ -1,8 +1,7 @@
-![Awesome Hacking](./images/awesome_hacking.jpg)
+# Awesome hacking
 
-# [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
-**A collection of awesome lists for hackers, pentesters & security researchers.**
+A collection of awesome lists for hackers, pentesters & security researchers: [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 ### Awesome Repositories
 

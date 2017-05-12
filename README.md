@@ -6,11 +6,11 @@
 - [Algorithm](./algorithm/README.md)
 - [Language](./language/README.md)
     - Assembly
-    - C
+    - [C](./language/c/README.md)
     - CPP
     - [Python](./language/python/README.md)
     - [Java](./language/java/README.md)
-    - [Ocaml]((./language/ocaml/README.txt)
+    - [Ocaml](./language/ocaml/README.txt)
 - [Compiler](./compiler/README.md)
 - [Linux](./linux/README.md)
 - [Docker](./docker/README.md)
