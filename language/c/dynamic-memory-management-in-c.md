@@ -1,5 +1,5 @@
 
-# Dynamic memory management in c
+t Dynamic memory management in c
 
 A C program executes within a *runtime systm*. This is typically the environment provided by an operating system. The runtime system supports the stack and heap along with other program behavior.
 
@@ -14,7 +14,6 @@ int *pi = (int*) malloc(sizeof(int)); //returns a pointer to memory allocated fr
 *pi = 2;
 printf("pi: %d\n", *pi);
 free(pi);
-```
 
 		+---------------+
 		|   500   2     | Heap
@@ -24,6 +23,7 @@ free(pi);
 main| |pi    500 |  | Stack
 		| +----------+  |
 		+---------------+
+```
 
 ### Memory Leaks
 
@@ -47,7 +47,6 @@ Another example allocates memory for a string, initializes it, and then displays
    printf("%c",*name);
    name++;
  }
-```
 
      +---------------+
      | 600 Susan0    | Heap
@@ -57,6 +56,7 @@ Another example allocates memory for a string, initializes it, and then displays
  main| |pi    600 |  | Stack
      | +----------+  |
      +---------------+
+```
 
 It increments name by one with each loop iteration. At the end, name is left pointing to the string's NUL termination character, the allocated memory's starting address has been lost.
 

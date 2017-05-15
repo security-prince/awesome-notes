@@ -7,7 +7,7 @@
 - [Language](./language/README.md)
     - Assembly
     - [C](./language/c/README.md)
-    - CPP
+    - [CPP](./language/cpp/README.md)
     - [Python](./language/python/README.md)
     - [Java](./language/java/README.md)
     - [Ocaml](./language/ocaml/README.txt)
