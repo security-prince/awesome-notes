@@ -144,7 +144,7 @@ printf("%d\n",stringLength(&simpleArray));
 printf("%d\n",stringLength(&simpleArray[0]));
 ```
 
-![](i/images/passing-a-string.png)
+![](./images/passing-a-string.png)
 
 Passing a pointer to a string as a constant char is a very common and useful technique. It passes the string using a pointer, and at the same time prevents the string being passed from being modified.
 

@@ -7,6 +7,7 @@
 - [Pointers and functions](pointers-and-functions.md)
 - [Pointers and arrays](pointers-and-arrays.md)
 - [Pointers and strings](pointers-and-strings.md)
+- [Pointers and strutures](pointers-and-structures.md)
 
 ## Resources
 - [Notes on C and experimental files](https://github.com/jwasham/c-note)

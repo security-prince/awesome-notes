@@ -20,4 +20,4 @@
 * [JVM Monitor](jvm-monitor.pdf)
 
 ### Java Useful Resources
-*[A curated list of awesome Java frameworks, libraries and software](https://github.com/uhub/awesome-java)
+* [A curated list of awesome Java frameworks, libraries and software](https://github.com/uhub/awesome-java)
