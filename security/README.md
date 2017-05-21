@@ -58,3 +58,4 @@
 
 * [crunch - wordlist generator](https://sourceforge.net/projects/crunch-wordlist/)
 * [hashcat,the fastest password cracker,the first and only in-kernel rule engine](https://hashcat.net/hashcat/)
+* [Malware source code samples leaked online uploaded to GitHub for those who want to analyze the code](https://github.com/fdiskyou/malware)

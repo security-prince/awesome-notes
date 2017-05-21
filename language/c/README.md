@@ -8,6 +8,8 @@
 - [Pointers and arrays](pointers-and-arrays.md)
 - [Pointers and strings](pointers-and-strings.md)
 - [Pointers and strutures](pointers-and-structures.md)
+- [Improper use of pointers](improper-use-of-pointers.md)
+- [Odds and ends](odds-and-ends.md)
 
 ## Resources
 - [Notes on C and experimental files](https://github.com/jwasham/c-note)
