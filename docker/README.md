@@ -1,7 +1,8 @@
 # Docker
 
-- [docker-cheat-sheet](docker-cheat-sheet.md)
-- [monitoring-container-collectd-kafka](./docker/monitoring-container-collectd-kafka.md)
+- [Docker cheat sheet](docker-cheat-sheet.md)
+- [Monitoring container collectd kafka](monitoring-container-collectd-kafka.md)
+- [Monitoring docker container](monitoring-docker-container.md)
 
 ### Resources
 

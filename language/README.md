@@ -2,7 +2,7 @@ Language Notes
 ==========
 
 ### Overview
-- assembly
+- [assembly](./assembly/README.md)
 - [c](./c/README.md)
 - [cpp](./cpp/README.md)
 - [java](./java/README.md)

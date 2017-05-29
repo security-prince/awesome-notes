@@ -8,6 +8,8 @@
 * [anatomy-of-a-program-in-memory](anatomy-of-a-program-in-memory.md)
 * [how-the-kernel-manages-your-memory](how-the-kernel-manages-your-memory.md)
 
-### Embedded
+## Resources
+* [Linux Fundamentals](linuxfun.pdf)
+* [linux_scheduler_notes_final](linux_scheduler_notes_final.pdf)
+* [Little Book Of Semaphores](LittleBookOfSemaphores.pdf)
 
-### Monitor

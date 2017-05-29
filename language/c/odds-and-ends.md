@@ -121,9 +121,9 @@ value = *port; // read from the port
 	         +-----------+
 	         ...  
 	         +-----------+
-  0xB0000000 |  0x0BF4   |   <----> External Device
+      0xB0000000 |  0x0BF4   |   <----> External Device
 	         +-----------+
-  0xB0000004 |    ...    | 
+      0xB0000004 |    ...    | 
 	         +-----------+
 ```
 
