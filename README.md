@@ -15,6 +15,7 @@
 - [Linux](./linux/README.md)
 - [Network](./network/README.md)
 - [Docker](./docker/README.md)
+- [VM](./vm/README.md)
 - [Cloud](./cloud/README.md)
     - [DCOS](./cloud/DCOS/README.md)
     - [OpenStack](./cloud/OpenStack)

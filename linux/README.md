@@ -7,6 +7,7 @@
 * [getting-physical-with-memory](getting-physical-with-memory.md)
 * [anatomy-of-a-program-in-memory](anatomy-of-a-program-in-memory.md)
 * [how-the-kernel-manages-your-memory](how-the-kernel-manages-your-memory.md)
+* [64 Bits Linux Stack Based Buffer Overflow](64bit-linux-overflow.pdf)
 
 ## Resources
 * [Linux Fundamentals](linuxfun.pdf)
