@@ -20,6 +20,7 @@
     - [DCOS](./cloud/DCOS/README.md)
     - [OpenStack](./cloud/OpenStack)
 - [Big Data](./bigData/README.md)
+- [Distributed and cluster computing](./computing/README.md)
 - Courses
   * [Computer Science Courses](computer-science-courses.md)
   * [List of awesome university courses for learning Computer Science](https://github.com/prakhar1989/awesome-courses)
