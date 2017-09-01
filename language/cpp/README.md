@@ -9,6 +9,7 @@
 * [C and C++](c-and-cpp.md)
 * [Seting out to C++](seting-out-to-cpp.md)
 * [Loops and branching statements](loops-and-branching-statements.md)
+* [Objects and Classes](objects_and_classes.md)
 
 ## Resources
 
