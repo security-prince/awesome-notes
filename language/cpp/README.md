@@ -10,6 +10,8 @@
 * [Seting out to C++](seting-out-to-cpp.md)
 * [Loops and branching statements](loops-and-branching-statements.md)
 * [Objects and Classes](objects_and_classes.md)
+* [Working with classes](working_with_classes.md)
+* [Classes and Dynamic memory allocation](classes_and_dynamic_memory_allocation.md)
 
 ## Resources
 
