@@ -14,3 +14,5 @@
 * [linux_scheduler_notes_final](linux_scheduler_notes_final.pdf)
 * [Little Book Of Semaphores](LittleBookOfSemaphores.pdf)
 
+## Bugs
+* [unknown-display-in-ubuntu-16-04](unknown-display-in-ubuntu-16-04.md)
