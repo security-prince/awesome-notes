@@ -3,6 +3,8 @@
 
 * [C++ Learning Note (11-08-2015)](cpp-learning-note.pdf)
 * [My learning summary](learning-summary.md)
+* [Constructor](constructor.md)
+* [Virtual functions](virtual_functions.md)
 
 ## C++ Primer Plus
 
